@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: cadetblue;
+  color: #fff;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.title{
+  text-align: center;
+}
+
+.for{
+  list-style: none;
+  font-size: 1.5rem;
+  padding: 10px;
+}
+
+p{
+  font-size: 1.3rem;
+  
+}
+
+.list-while{
+
+  list-style: none;
+  font-size: 1.5rem;
+  padding: 10px;
+  font-family: cursive;
+
+}
